@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558896844 source:d:\info\faculta\poo\poo p3\main.cpp
+	<iostream>
+	"vector.h"
+	<cassert>
+
+1558899677 d:\info\faculta\poo\poo p3\vector.h
+	<iostream>
+	<climits>
+	"Vector.h"
+	<stdexcept>
+
+1558822231 source:d:\info\faculta\poo\poo p3\vector.cpp
+	<climits>
+	"Vector.h"
+	<stdexcept>
+
